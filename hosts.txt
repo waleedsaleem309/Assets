@@ -3392,6 +3392,7 @@ ascraftan.com
 /ad-local.$domain=~ad-local.de
 /ad-logger/*
 /ad-m.js
+/blast.js
 /ad-manager/*
 /ad-managment/*
 /ad-marketplace/*
