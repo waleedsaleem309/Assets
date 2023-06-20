@@ -1,0 +1,11 @@
+{
+  "name": "John",
+  "age": 30,
+  "city": "New York",
+  "hobbies": ["reading", "running", "swimming"],
+  "education": {
+    "degree": "Bachelor's",
+    "major": "Computer Science",
+    "university": "Harvard"
+  }
+}
