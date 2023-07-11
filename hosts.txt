@@ -1,6 +1,3 @@
-aliflailaaliflaila.com
-pbnjzwjsy.com
-obstre.com
 wpjhenqutmdzd.com
 ousouzay.net
 orgerm.com
@@ -58713,7 +58710,7 @@ trademe.co.nz##tm-display-ad
 trademe.co.nz##tm-shell-leaderboard-ad
 tumblr.com#?#._1DxdS:-abp-has( > div > header[role="banner"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
-xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|SponsorisÃƒÆ’Ã‚Â©|Sponsorizzato/))
+xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|SponsorisÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©|Sponsorizzato/))
 yelp.com#?#section:-abp-has(div > span > span:-abp-contains(Sponsored))
 ! - Mark
 adtunes.com###ad_global_below_navbar
@@ -59026,7 +59023,7 @@ tomsguide.com###below_the_article
 tgdaily.com###bestcovery_container
 dailygalaxy.com###beta-inner
 nigeriafootball.com###bettingCompetition
-atÃƒâ€žÃ¢â‚¬Ëœhe.net###between_links
+atÃƒÆ’Ã¢â‚¬Å¾ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“he.net###between_links
 searchenginejournal.com###bg-atag
 searchenginejournal.com###bg-takeover-unit
 frostytech.com###bg_googlebanner_160x600LH
@@ -59902,7 +59899,7 @@ megashare.com###hd-link
 lifestyle.yahoo.com###hd-prop-logo-hero
 castanet.net###hdad
 prevention.com###hdr-top
-flashgot.net###head a[target="_blÃƒÂÃ‚Â°nk"]
+flashgot.net###head a[target="_blÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â°nk"]
 virtualnights.com###head-banner
 androidheadlines.com,molempire.com###head-banner728
 geekologie.com###head-leaderboard
